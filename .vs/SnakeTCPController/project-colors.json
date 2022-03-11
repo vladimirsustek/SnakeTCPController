@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d485ee32-2c1d-414e-b0c0-020c2d1d7ffc": {
+      "ProjectGuid": "d485ee32-2c1d-414e-b0c0-020c2d1d7ffc",
+      "DisplayName": "SnakeTCPController",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
